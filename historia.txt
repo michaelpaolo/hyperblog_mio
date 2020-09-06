@@ -1,5 +1,7 @@
 este es un archivo
 
-de prueba
+de prueba numero 2
 
 para cambios en git
+
+nuevo cambio despues del reset
