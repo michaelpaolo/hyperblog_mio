@@ -1,7 +1,9 @@
 este es un archivo
 
-de prueba numero 2
+de prueba 3ra version
 
 para cambios en git
 
-nuevo cambio despues del reset
+cambios recuperando primera version con checkout
+
+y creando nueva version desde la primera.
