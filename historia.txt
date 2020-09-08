@@ -1,9 +1,9 @@
-este es un archivo
+archivo
 
-de prueba 3ra version
+de prueba
+
+4ta version
 
 para cambios en git
 
-cambios recuperando primera version con checkout
-
-y creando nueva version desde la primera.
+prueba con checkout.
